@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to eazy bank loans related prod APIs"
+  message: "Welcome to eazy bank loans related production APIs"
   contactDetails:
     name: "Michel"
     email: "michel@abc.com"
