@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to eazy bank accounts related prod APIs"
+  contactDetails:
+    name: "Hayden"
+    email: "hayden@abc.com"
+  onCallSupport:
+    - (455) 134-2435
+    - (111) 124-7594

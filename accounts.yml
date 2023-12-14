@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to eazy bank accounts related local APIs"
+  contactDetails:
+    name: "Michel"
+    email: "michel@abc.com"
+  onCallSupport:
+    - (455) 934-2435
+    - (111) 324-7594

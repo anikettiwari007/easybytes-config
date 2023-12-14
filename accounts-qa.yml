@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to eazy bank accounts related to qa APIs"
+  contactDetails:
+    name: "Clark"
+    email: "Clark@abc.com"
+  onCallSupport:
+    - (455) 234-2435
+    - (111) 237-7594
