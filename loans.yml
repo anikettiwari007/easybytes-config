@@ -1,4 +1,4 @@
-accounts:
+loans:
   message: "Welcome to eazy bank loans related local APIs"
   contactDetails:
     name: "Michel"
