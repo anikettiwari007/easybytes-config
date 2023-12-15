@@ -2,7 +2,7 @@ loans:
   message: "Welcome to eazy bank loans related production APIs"
   contactDetails:
     name: "Michel"
-    email: "michel@abc.com"
+    email: "{cipher}67d0458802a1f16e85516dbf6dee9a14e4062fdc735d88e508a1475edf846d62"
   onCallSupport:
     - (455) 934-2435
     - (111) 324-7594
