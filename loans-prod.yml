@@ -1,5 +1,5 @@
 loans:
-  message: "Welcome to eazy bank loans related production APIs"
+  message: "Welcome to eazy bank loans related prod APIs"
   contactDetails:
     name: "Michel"
     email: "{cipher}67d0458802a1f16e85516dbf6dee9a14e4062fdc735d88e508a1475edf846d62"
