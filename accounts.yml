@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to eazy bank accounts related local APIs"
+  message: "Welcome to eazy bank accounts related docker local APIs"
   contactDetails:
     name: "Michel"
     email: "michel@abc.com"
